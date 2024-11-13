@@ -1,6 +1,6 @@
 ## Learn How to Work with Numbers and Strings by Recreating the Luhn Algorithm for Credit Card Validity
 
-Learning how to work with numbers and strings in Python through string manipulation and numerical computations. The Luhn algorithm is a commonly used method for error-checking a credit card's validity. 
+Learning how to work with numbers and strings in Python through string manipulation and numerical computations. The Luhn Algorithm is a commonly used method for error-checking a credit card's validity. 
 
 The algorithm states:
 1. From the right to left, double the value of every second digit; if the product is greater than 9, sum the digits of the products.
